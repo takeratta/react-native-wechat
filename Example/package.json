@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "es6-promisify": "^3.0.0",
-    "react-native": "^0.14.2",
+    "react-native": "^0.69.12",
     "events": "1.0.2"
   }
 }
